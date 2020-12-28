@@ -10,4 +10,6 @@ CMS allows to crud new navigation subject, different pages, content to the pages
 
 Missing here 
 - constants.php - check from connection.php for the required constant.
-- database with simple design as shown in 'database tables.jpg' file is required. The users table requires at least one priviledged account that could use this CMS. 
+- database with simple design as shown in below is required. The users table requires at least one priviledged account that could use this CMS. 
+
+![tables](https://user-images.githubusercontent.com/25438156/103187569-7dbd8500-48cd-11eb-82d9-274db952a215.png)
